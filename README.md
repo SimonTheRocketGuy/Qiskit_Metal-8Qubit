@@ -24,9 +24,6 @@
 
 ## Demonstration
 
-#### Hamiltonian
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
 #### Qiskit Metal Layout
 ![App Screenshot](Images/qiskit2.png)
 
@@ -38,9 +35,6 @@
 
 #### Transmon seperately
 ![App Screenshot](Images/qiskit5.png)
-
-#### LOM Analysis
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 #### GDSII
 ![App Screenshot](Images/qiskit7.png)
